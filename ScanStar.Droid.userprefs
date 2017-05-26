@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D05B0A9D-3A13-4FDF-AE0E-1F0AB26E3526}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScanStar.Droid/MainActivity.cs">
+    <Files>
+      <File FileName="ScanStar.Droid/MainActivity.cs" Line="71" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ScanStar.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>

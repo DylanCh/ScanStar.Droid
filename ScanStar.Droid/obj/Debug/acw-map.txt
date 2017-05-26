@@ -1,0 +1,4 @@
+ScanStar.Droid.MainActivity, ScanStar.Droid;md5231ad94c5ebcfb2e9a8c43d427c8e324.MainActivity
+ScanStar.Droid.MainActivity, ScanStar.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5231ad94c5ebcfb2e9a8c43d427c8e324.MainActivity
+ScanStar.Droid.MainActivity;md5231ad94c5ebcfb2e9a8c43d427c8e324.MainActivity
+scanstar.droid.MainActivity;md5231ad94c5ebcfb2e9a8c43d427c8e324.MainActivity
